@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">British Geology</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+    <string name="contains_material_from_the_british_geological_survey">Contains material from the British Geological Survey.</string>
+</resources>

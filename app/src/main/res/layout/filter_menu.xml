@@ -1,0 +1,22 @@
+<!--
+NAME:         Peter McKendry
+STUDENT ID:   S1915350
+-->
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" android:layout_height="wrap_content" android:layout_width="wrap_content">
+    <item
+        android:id="@+id/defaultFilter"
+        android:title="Clear Filters" />
+    <item
+        android:id="@+id/magAsc"
+        android:title="Magnitude (Ascending)" />
+    <item
+        android:id="@+id/magDesc"
+        android:title="Magnitude (Descending)"/>
+    <item
+        android:id="@+id/depthAsc"
+        android:title="Depth (Ascending)"/>
+    <item
+        android:id="@+id/depthDesc"
+        android:title="Depth (Descending)"/>
+</menu>
